@@ -249,6 +249,8 @@ The VaR corresponds to the selected tail percentile of simulated returns.
 * Risk attribution by asset
 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshuacoureau12-creator/var_portfolio/blob/main/var-portfolio.ipynb)
+---
 
 ## Disclaimer
 
